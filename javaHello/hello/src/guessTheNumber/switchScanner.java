@@ -11,7 +11,7 @@ public class switchScanner {
         String command = input.nextLine();
 
         switch(command) {
-        case "start": 
+        case "start":
             System.out.println("machine started");
             break;
         case "end": 
