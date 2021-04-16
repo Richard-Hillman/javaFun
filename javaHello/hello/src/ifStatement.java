@@ -1,5 +1,3 @@
-import jdk.tools.jlink.internal.SymLinkResourcePoolEntry;
-
 public class ifStatement {
     public static void main(String[] args) {
 
